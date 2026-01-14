@@ -14,7 +14,7 @@ pytorch-edge is tested on following devices:
 
 
 ## Build Project
-```shell
+```bash
 git clone --recursive https://github.com/JingliangGao/pytorch-edge.git
 cd pytorch-edge/
 chmod +x build-for-debug.sh && ./build-for-debug.sh
